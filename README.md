@@ -4,4 +4,3 @@
 
 ### *Disciplina:* Desenvolvimento de Aplicações para Internet
 
-####  *Aluna:* Gabrielly Lins Oliveira
